@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring fullstack developer from Sri Lanka</h3>
 <p align="center">There are 10 types of people in the world… those that understand binary and those that don’t.🚀</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randilt&label=Profile%20views&color=0e75b6&style=flat" alt="randilt" /> </p>
+
 
 - 🔭 I’m currently working on [a open source blog](https://github.com/randilt/cyberscourge-hub)
 
