@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **randiltharusha72@gmail.com**
 
-### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
