@@ -11,6 +11,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn About Networking Devices:Routers and Access Points&lpar;Networking Concepts - 3&rpar;](https://rtharusha.tech/posts/network-devices/)
+- [Shooting Genjitsu: A Game Developed by a Sri Lankan Developer](https://rtharusha.tech/posts/shooting-genjitsu-game/)
+- [How to Divide a Network Into Subnets With an Example &lpar;Networking Concepts - 2&rpar;](https://rtharusha.tech/posts/how-to-divide-a-network-into-subnets/)
+- [Understanding IP Addresses and Subnetting &lpar;Networking Concepts - 1&rpar;](https://rtharusha.tech/posts/understanding-ip-and-subnetting/)
+- [Building a Simple To-Do List Web App with HTML, CSS, and JavaScript](https://rtharusha.tech/posts/building-a-simple-todo-list/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
