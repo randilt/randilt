@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [a open source blog](https://github.com/randilt/cyberscourge-hub)
 
-- 📝 I regularly write articles on [rtharusha.tech](rtharusha.tech)
+- 📝 I regularly write articles on [rtharusha.tech](https://rtharusha.tech)
 
 - 📫 How to reach me **randiltharusha72@gmail.com**
 
