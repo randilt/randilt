@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **randiltharusha72@gmail.com**
 
-## Blog posts
+## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Learn About Networking Devices:Routers and Access Points&lpar;Networking Concepts - 3&rpar;](https://rtharusha.tech/posts/network-devices/)
 - [Shooting Genjitsu: A Game Developed by a Sri Lankan Developer](https://rtharusha.tech/posts/shooting-genjitsu-game/)
