@@ -12,11 +12,11 @@
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Showdown of 2023: Google Unveils Gemini to Challenge GPT-4 Dominance](https://rtharusha.tech/posts/google-unveils-gemini/)
 - [What is Zig?  A Deep Dive into the Next-Gen Programming Language](https://rtharusha.tech/posts/introduction-to-zig/)
 - [Python Conditionals](https://rtharusha.tech/posts/python-conditionals/)
 - [Learn About Networking Devices:Routers and Access Points&lpar;Networking Concepts - 3&rpar;](https://rtharusha.tech/posts/network-devices/)
 - [Shooting Genjitsu: A Game Developed by a Sri Lankan Developer](https://rtharusha.tech/posts/shooting-genjitsu-game/)
-- [How to Divide a Network Into Subnets With an Example &lpar;Networking Concepts - 2&rpar;](https://rtharusha.tech/posts/how-to-divide-a-network-into-subnets/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
