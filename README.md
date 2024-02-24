@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [a open source blog](https://github.com/randilt/cyberscourge-hub)
+- 🔭 I’m currently working on a Video game data API
 
 - 📝 I regularly write articles on [blog.randiltharusha.me](https://blog.randiltharusha.me)
 
