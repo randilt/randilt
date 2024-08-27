@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Randil Tharusha</h1>
-<h3 align="center">An aspiring fullstack developer from Sri Lanka</h3>
+<h3 align="center">Fullstack developer from Sri Lanka</h3>
 <p align="center">There are 10 types of people in the world… those that understand binary and those that don’t.🚀</p>
 
 
 
-- 🔭 I’m currently working on a Video game data API
+- 🏢 [Pulse iD](https://pulseid.com)
 
 - 📝 I regularly write articles on [blog.randiltharusha.me](https://blog.randiltharusha.me)
 
