@@ -6,7 +6,7 @@
 
 - 🏢 [Pulse iD](https://pulseid.com)
 
-- 📝 I regularly write articles on [blog.randiltharusha.me](https://blog.randiltharusha.me)
+- 📝 [blog.randiltharusha.me](https://blog.randiltharusha.me)
 
 - 📫 How to reach me **randiltharusha72@gmail.com**
 
